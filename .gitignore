@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,5 +173,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< Updated upstream
 
 .DS_Store
+=======
+=======
+*.pkl
+*.log
+*.env
+__pycache__/
+>>>>>>> bc506ee (Initial commit)
+>>>>>>> Stashed changes
