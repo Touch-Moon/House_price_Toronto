@@ -174,13 +174,19 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 .DS_Store
 =======
+=======
+>>>>>>> Stashed changes
 =======
 *.pkl
 *.log
 *.env
 __pycache__/
 >>>>>>> bc506ee (Initial commit)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
