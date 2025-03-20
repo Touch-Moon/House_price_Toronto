@@ -52,6 +52,8 @@ To run this project locally, follow these steps:
 2. Access the API documentation at:
     - `http://127.0.0.1:8000/docs`
 
+You can access the FastAPI documentation at: [http://3.135.188.21:8000/docs]
+
 3. Send a POST request to `/predict` with the following body to get predictions:
     ```json
     {
